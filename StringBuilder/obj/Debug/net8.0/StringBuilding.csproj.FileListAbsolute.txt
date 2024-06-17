@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\StringBuilder\bin\Debug\net8.0\StringBuilding.exe
+C:\Users\48571\source\repos\StringBuilder\bin\Debug\net8.0\StringBuilding.deps.json
+C:\Users\48571\source\repos\StringBuilder\bin\Debug\net8.0\StringBuilding.runtimeconfig.json
+C:\Users\48571\source\repos\StringBuilder\bin\Debug\net8.0\StringBuilding.dll
+C:\Users\48571\source\repos\StringBuilder\bin\Debug\net8.0\StringBuilding.pdb
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\StringBuilding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\StringBuilding.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\StringBuilding.AssemblyInfo.cs
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\StringBuilding.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\StringBuilding.dll
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\refint\StringBuilding.dll
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\StringBuilding.pdb
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\StringBuilding.genruntimeconfig.cache
+C:\Users\48571\source\repos\StringBuilder\obj\Debug\net8.0\ref\StringBuilding.dll
